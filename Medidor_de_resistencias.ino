@@ -1,3 +1,16 @@
+/*
+  Fundacion Kinal
+  Centro educativo tecnico laboral Kinal
+  Perito en electronica
+  Quinto perito
+  Seccion: A
+  Curso: Taller de electronica digital y reparacion de computadoras I
+  Alumno: Carlos Argueta Serech
+  Carne: 2022335
+  Proyecto: OHMIMETRO
+*/
+
+
 #include <LiquidCrystal.h>
 #define voltajeDivisor A0 
 #define D4 2
